@@ -1,6 +1,6 @@
 include "main.h"
 /**
- * _abs - computes the abs value of an integer
+ * _abs - computes the abs value of an int
  * @n: is the int in question
  *
  * Return: the abs of the int.
