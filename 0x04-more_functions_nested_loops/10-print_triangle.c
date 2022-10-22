@@ -4,8 +4,9 @@
  * print_triangle - prints a triangle
  * @n: size of the triangle
  */
-void print_triangle(int n)
+void print_triangle(int size)
 {
+	int size = n;
 	int a, tri;
 
 	if (n > 0)
